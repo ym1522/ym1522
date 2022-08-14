@@ -1,3 +1,5 @@
+
+
 # My Stat 👋
 
 <div align = 'center'
@@ -9,3 +11,6 @@
 
 ![YM's Commit Graph](https://activity-graph.herokuapp.com/graph?username=ym1522&bg_color=ffffff&color=8F72DB&line=8F72DB&point=ff3961&area_color=ffffff&area=true&custom_title=%20Kim%20Yumin%20Commits%20Graph)
 </div>
+
+---
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fym1522&count_bg=%238F72DB&title_bg=%23FF3961&icon=codeigniter.svg&icon_color=%23FFFFFF&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
