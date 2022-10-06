@@ -1,16 +1,12 @@
-
+![header](https://capsule-render.vercel.app/api?type=waving&color=f7df4d&height=170&section=header&fontColor=b57615&text=💻Yumin%20Github💻&fontSize=70&fontAlignY=35)
 
 # My Stat 👋
 
 <div align = 'center'
-  <a href="https://opgc.me/#/users/ym1522" target="_blank"><img src="https://api.opgc.me/githubs/users/ym1522/tag/?theme=basic" /></a><br><br>
  
-![YM's github stats](https://github-readme-stats.vercel.app/api?username=ym1522&count_private=true&show_icons=true&theme=buefy)
+![YM's github stats](https://github-readme-stats.vercel.app/api?username=ym1522&count_private=true&show_icons=true&&bg_color=ffffff&title_color=b57615&text_color=b57615&icon_color=b57615)
 
-![YM's github streaks](https://github-readme-streak-stats.herokuapp.com/?user=ym1522&stroke=ffffff&background=FFFFFF&ring=8F72DB&fire=8F72DB&currStreakNum=8F72DB&currStreakLabel=8F72DB&sideNums=8F72DB&sideLabels=8F72DB&dates=8F72DB)
+![YM's github streaks](https://github-readme-streak-stats.herokuapp.com/?user=ym1522&stroke=ffffff&background=FFFFFF&ring=b57615&fire=f7df4d&currStreakNum=b57615&currStreakLabel=b57615&sideNums=b57615&sideLabels=b57615&dates=b57615)
 
-![YM's Commit Graph](https://activity-graph.herokuapp.com/graph?username=ym1522&bg_color=ffffff&color=8F72DB&line=8F72DB&point=ff3961&area_color=ffffff&area=true&custom_title=%20Kim%20Yumin%20Commits%20Graph)
+![YM's Commit Graph](https://activity-graph.herokuapp.com/graph?username=ym1522&bg_color=ffffff&color=b57615&line=fbf1c7&point=b57615&area_color=ffffff&area=true&custom_title=%20Yumin%20Commits%20Graph)
 </div>
-
----
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fym1522&count_bg=%238F72DB&title_bg=%23FF3961&icon=codeigniter.svg&icon_color=%23FFFFFF&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
