@@ -9,7 +9,7 @@
  
 <br />
 
-<a href="https://www.instagram.com/y._.623/"><img src="https://img.shields.io/badge/Instagram-F8DC75?style=for-the-badge&logo=Instagram&logoColor=white">
+<a href="https://www.instagram.com/y._.623/"><img src="https://img.shields.io/badge/Instagram-F8DC75?style=for-the-badge&logo=Instagram&logoColor=white"></a>
 <img src="https://img.shields.io/badge/yumin000623@gmail.com-F8DC75?style=for-the-badge&logo=Gmail&logoColor=white">
 <img src="https://img.shields.io/badge/blog-F8DC75?style=for-the-badge&logo=Tistory&logoColor=white">
 
