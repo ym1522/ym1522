@@ -3,9 +3,9 @@
 # About Me 👋
 <div align = 'left'
 
-🌼 **Undergraduate that study to be a Data Analyst**   
-🌻 **Studying Data Analysis & Science and ML**  
-🌷 **Learn More!**  
+#### 🌼 **Undergraduate that study to be a Data Analyst**   
+#### 🌻 **Studying Data Analysis & Science and ML**  
+#### 🌷 **Learn More!**  
  
 <br />
 
