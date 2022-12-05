@@ -11,7 +11,7 @@
 
 <a href="https://www.instagram.com/y._.623/"><img src="https://img.shields.io/badge/Instagram-F8DC75?style=for-the-badge&logo=Instagram&logoColor=b57615"></a>
 <img src="https://img.shields.io/badge/yumin000623@gmail.com-F8DC75?style=for-the-badge&logo=Gmail&logoColor=b57615">
-<img src="https://img.shields.io/badge/blog-F8DC75?style=for-the-badge&logo=Tistory&logoColor=b57615">
+<a href="https://y-min.tistory.com/"><img src="https://img.shields.io/badge/blog-F8DC75?style=for-the-badge&logo=Tistory&logoColor=b57615">
 
 <br />
 
