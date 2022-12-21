@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=f7df4d&height=170&section=header&fontColor=b57615&text=💻Yumin%20Github💻&fontSize=70&fontAlignY=35)
+![header](https://capsule-render.vercel.app/api?type=waving&color=f7df4d&height=180&section=header&fontColor=b57615&text=🍀Yumin%20Github🍀&fontSize=70&fontAlignY=35)
 
 # About Me 👋
 <div align = 'left'
