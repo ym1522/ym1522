@@ -3,8 +3,8 @@
 # About Me 👋
 <div align = 'left'
 
-#### 🌼 **Undergraduate that study to be a Data Analyst**   
-#### 🌻 **Studying Data Analysis & Science and ML**  
+#### 🌼 **Mobile App Developer**   
+#### 🌻 **Studying Flutter**  
 #### 🌷 **Learn More!**  
  
 <br />
