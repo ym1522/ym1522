@@ -30,7 +30,9 @@
 <img src="https://img.shields.io/badge/scikit learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white">
 <img src="https://img.shields.io/badge/pandas-150458?style=for-the-badge&logo=pandas&logoColor=white">
 <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=OpenCV&logoColor=white">
-<br>  
+<br>
+ <img src="https://img.shields.io/badge/unity-%23000000?style=for-the-badge&logo=unity&logoColor=white">
+ <img src="https://img.shields.io/badge/c%23-%23239120?style=for-the-badge&logo=c%23&logoColor=white">
   
 <br />
 
