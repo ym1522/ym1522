@@ -32,7 +32,7 @@
 <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=OpenCV&logoColor=white">
 <br>
  <img src="https://img.shields.io/badge/unity-%23000000?style=for-the-badge&logo=unity&logoColor=white">
- <img src="https://img.shields.io/badge/c%23-%23239120?style=for-the-badge&logo=c%23&logoColor=white">
+ <img src="https://img.shields.io/badge/c%23-%23239120?style=for-the-badge&logo=csharp&logoColor=white">
   
 <br />
 
