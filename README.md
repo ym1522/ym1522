@@ -3,9 +3,9 @@
 # About Me 👋
 <div align = 'left'
 
-#### 🌼 **Mobile App Developer**   
-#### 🌻 **Studying Flutter**  
-#### 🌷 **Learn More!**  
+#### 🌼 **Studying...**   
+#### 🌻 **Studying...**  
+#### 🌷 **Studying...**  
  
 <br />
 
